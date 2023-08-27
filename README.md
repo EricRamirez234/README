@@ -1,4 +1,4 @@
-https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="gif">
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A passionate fullstack Developer from Arizona</h3>
 
